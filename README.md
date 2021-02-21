@@ -1,6 +1,6 @@
 **Nome:** *Lucas Fonseca de Freitas Martins*
 
-**Curso:** *Engenharia de Software*
+**Curso:** *Engenharia de Software* :rocket
 
 **RGM:** *24149853*
 
