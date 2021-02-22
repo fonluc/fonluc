@@ -5,7 +5,7 @@
 - 🔭 &nbsp; I’m currently learning ReactJS;
 - 🤔 &nbsp; Exploring new technologies;
 - 🎓 &nbsp; Studying Software Engineering
-- 💼   Looking for a Front-End Opportunity.
+- 💼 &nbsp; Looking for a Front-End Opportunity.
 
 <h3>🛠 Tech Stack</h3>
 
