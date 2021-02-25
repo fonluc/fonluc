@@ -4,7 +4,7 @@
 
 **My name is Lucas and I'm Software Developer.**
 
-<img align='center' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif"  width="360" ></img>
+<img align='center' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif" ></img>
 
                                                                                  
 
