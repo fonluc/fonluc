@@ -1,6 +1,6 @@
-<h2> Hello World!</h2>
+### Hello World!
 
-<img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
+<img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" width="480">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
