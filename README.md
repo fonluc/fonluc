@@ -1,8 +1,8 @@
 ### Hello World!
 
-<h3> 👨🏻‍💻 About Me </h3>
+<img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif" width="480" height="270" frameBorder="0"></img>
 
-<img align='right' src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0"></img>
+<h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning ReactJS;
 - 🤔 &nbsp; Exploring new technologies;
