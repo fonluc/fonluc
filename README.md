@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif"  width="360" ></img>
 
-.........................................................................................
+..................................................................................
 
 
 * Domain in: **JavaScript, HTML5 and CSS3;**
