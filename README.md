@@ -2,11 +2,12 @@
 
 ### 👨🏻‍💻 About Me 
 
+**My name is Lucas and I'm Software Developer.**
+
 <img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif"  frameBorder="0"></img>
 
 .........................................................................................
 
-**My name is Lucas and I'm Software Developer.**
 
 * Domain in: **JavaScript, HTML5 and CSS3;**
 * Studying: **ReactJS, Node.JS and Angular;**
