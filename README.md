@@ -2,15 +2,15 @@
 
 ### 👨🏻‍💻 About Me 
 
-**My name is Lucas Martins and I'm a Software Developer from Brazil.**
-
 <img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif"  frameBorder="0"></img>
+
+**My name is Lucas and I'm Software Developer.**
 
 * Domain in: **JavaScript, HTML5 and CSS3;**
 * Studying: **ReactJS, Node.JS and Angular;**
 * Interest in: **.NET(Core), Kotlin and Java.**
  
-**I'm also graduating in Software Engineering (PC: 9.54):**
+**Graduating in Software Engineering (PC: 9.54).**
 
 - Data Modeling (80h): **10;**
 - Web Development (80h): **9;**
