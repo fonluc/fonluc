@@ -21,7 +21,7 @@
 - Algorithms Development Skills (80h): **9;**
 - Objects-oriented Programming (80h): **9.5;**
 - Processes and Systems Modeling (60h): **10;**
-- Computer Organization and Architecture (60h): **9.**
+- Computer Organization Architecture (60h): **9.**
 
 **Languages:**
 
