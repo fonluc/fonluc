@@ -1,14 +1,29 @@
-### Hello World!
+## Hello World!
 
 <img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif" width="480" height="270" frameBorder="0"></img>
 
-<h3> 👨🏻‍💻 About Me </h3>
+# 👨🏻‍💻 About Me 
 
-- 🔭 &nbsp; I’m currently learning ReactJS;
-- 🤔 &nbsp; Exploring new technologies;
-- 🎓 &nbsp; Studying Software Engineering;
-- 💻 &nbsp; HTML5 | CSS3 | JavaScript.
+**My name is Lucas Martins and I'm a Software Developer from Brazil.**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fonluc&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+* Domain in: **JavaScript, HTML5 and CSS3;**
+* Studying: **ReactJS, Node.JS and Angular;**
+* Interest in: **.NET(Core), Kotlin e Java.**
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+**I'm also graduating in Software Engineering (PC: 9.54):**
+
+- Data Modeling (80h): **10;**
+- Web Development (80h): **9;**
+- Carreer Tracking Plan (10h): **10;**
+- Applied Mathematics (80h): **10;**
+- Skills Integration Project (20h): **10;**
+- Computer Programming (40h): **10;**
+- Algorithms Development Skills (80h): **9;**
+- Objects-oriented Programming (80h): **9.5;**
+- Processes and Systems Modeling (60h): **10;**
+- Computer Organization and Architecture (60h): **9.**
+
+**Languages:**
+
+- Portuguese: **(Native or Bilingual)**
+- English: **(Full Professional)**
