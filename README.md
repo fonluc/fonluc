@@ -1,6 +1,6 @@
-![computerboy](https://github.com/fonluc/fonluc/blob/main/giphy.mp4)
-
 <h2> Hello World!</h2>
+
+<img align='right' src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
 
 <h3> 👨🏻‍💻 About Me </h3>
 
