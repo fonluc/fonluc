@@ -1,15 +1,13 @@
 ### Hello World!
 
-<img align='right' src="https://gph.is/g/4gV79JJ" width="240">
-
 <h3> 👨🏻‍💻 About Me </h3>
+
+<img align='right' src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0"></img>
 
 - 🔭 &nbsp; I’m currently learning ReactJS;
 - 🤔 &nbsp; Exploring new technologies;
 - 🎓 &nbsp; Studying Software Engineering;
 - 💻 &nbsp; HTML5 | CSS3 | JavaScript.
-
-</br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fonluc&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
