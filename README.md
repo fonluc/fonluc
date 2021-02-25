@@ -2,7 +2,7 @@
 
 <img align='right' src="https://github.com/fonluc/fonluc/blob/main/software-engineering.gif" width="480" height="270" frameBorder="0"></img>
 
-# 👨🏻‍💻 About Me 
+### 👨🏻‍💻 About Me 
 
 **My name is Lucas Martins and I'm a Software Developer from Brazil.**
 
