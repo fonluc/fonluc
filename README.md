@@ -15,17 +15,6 @@
  
 **Graduating in Software Engineering (PC: 9.54).**
 
-- Data Modeling: **10;**
-- Web Development: **9;**
-- Carreer Tracking Plan: **10;**
-- Applied Mathematics: **10;**
-- Skills Integration Project: **10;**
-- Computer Programming: **10;**
-- Algorithms Development Skills: **9;**
-- Objects-oriented Programming: **9.5;**
-- Processes and Systems Modeling: **10;**
-- Computer Organization and Architecture: **9.**
-
 **Languages:**
 
 - Portuguese: **(Native or Bilingual)**
