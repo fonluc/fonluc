@@ -13,9 +13,4 @@
 * Studying: **ReactJS, Node.JS and Angular;**
 * Interest in: **.NET(Core), Kotlin and Java.**
  
-**Graduating in Software Engineering (PC: 9.54).**
-
-**Languages:**
-
-- Portuguese: **(Native or Bilingual)**
-- English: **(Full Professional)**
+**Graduating in Software Engineering.**
